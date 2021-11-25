@@ -4,9 +4,7 @@
 ## :sunny: About Me
 
 
-- :computer: A software engineer
-- :basketball: An amateur player
-- :potato: a coach
+- :turtle: A software engineer, a basketballer, and a couch potato
 
 
 - :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
