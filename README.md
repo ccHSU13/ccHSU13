@@ -4,8 +4,7 @@
 ## :sunny: About Me
 
 
-:turtle: A software engineer, a basketballer, and a couch potato
-
+A software engineer, a basketballer, and a couch potato :turtle: 
 
 - :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
 - :gear: Work at [Micron](https://www.micron.com)
