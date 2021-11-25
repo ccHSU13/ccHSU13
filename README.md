@@ -1,7 +1,7 @@
 # Hi, I am Chun
 
 
-## :bulb: About Me
+## :sunny: About Me
 
 
 - :computer: A software engineer
