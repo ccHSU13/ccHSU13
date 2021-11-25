@@ -1,4 +1,4 @@
-# Hi, I am Chun
+# Hi! I am Chun
 
 
 ## :sunny: About Me
