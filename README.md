@@ -1,8 +1,9 @@
 # Hi, I am Chun
 
-A software engineer.
 
 ## :bulb: About Me
+
+A software engineer, a basketballer, a coach potato:potato:.
 
 - :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
 - :gear: Work at [Micron](https://www.micron.com)
