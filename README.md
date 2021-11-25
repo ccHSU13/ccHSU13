@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# :Chun
+# Hi, I am Chun
 
 A software engineer.
 
