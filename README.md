@@ -6,7 +6,8 @@
 
 - :computer: A software engineer
 - :basketball: An amateur player
-- :potato:a coach
+- :potato: a coach
+
 
 - :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
 - :gear: Work at [Micron](https://www.micron.com)
