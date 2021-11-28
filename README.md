@@ -7,7 +7,7 @@
 A software engineer, a basketballer, a normal person :turtle: 
 
 - :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
-- :gear: Work at [Micron](https://www.micron.com)
+- :gear: Work at [Micron Technology](https://www.micron.com)
 
 ## :wrench: I am Working on ...
 
