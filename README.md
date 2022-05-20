@@ -6,7 +6,7 @@
 
 A software engineer, a basketballer, a normal person :turtle: 
 
-- :hatching_chick:: Born in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
+- :hatching_chick: Born in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
 - :house_with_garden: Live in [Japan](https://en.wikipedia.org/wiki/Japan)
 - :gear: Work at [DeepX, Inc.](https://www.deepx.co.jp)
 
