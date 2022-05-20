@@ -7,7 +7,7 @@
 A software engineer, a basketballer, a normal person :turtle: 
 
 - :house_with_garden: Live in [Japan](https://en.wikipedia.org/wiki/Japan)
-- :gear: Work at [DeepX]([https://www.micron.com](https://www.deepx.co.jp/))
+- :gear: Work at [DeepX](https://www.deepx.co.jp)
 
 ## :wrench: I am Working on ...
 
